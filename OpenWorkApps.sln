@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenWorkApps", "OpenWorkApps\OpenWorkApps.csproj", "{22A8B63E-E274-42E1-A1CE-DCA0A4D74690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A8B63E-E274-42E1-A1CE-DCA0A4D74690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A8B63E-E274-42E1-A1CE-DCA0A4D74690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A8B63E-E274-42E1-A1CE-DCA0A4D74690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A8B63E-E274-42E1-A1CE-DCA0A4D74690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2330F3CB-3BF3-4FA8-839A-653C4A707E8C}
+	EndGlobalSection
+EndGlobal
